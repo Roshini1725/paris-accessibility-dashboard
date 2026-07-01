@@ -1,0 +1,501 @@
+listing_id,neighbourhood,price,rating,room_type,amenities_raw,is_accessible
+1000,Bastille,47.75,78.3,Entire home/apt,"Wifi,Kitchen,TV",False
+1001,Bastille,249.78,96.8,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1002,Louvre,49.24,76.6,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1003,Montparnasse,101.64,89.5,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1004,Montmartre,179.25,78.3,Entire home/apt,"Wifi,Kitchen,TV",False
+1005,Passy,145.48,74.7,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1006,Bastille,157.78,80.8,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1007,Louvre,266.22,86.1,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1008,Montparnasse,130.89,88.9,Private room,"Wifi,Heating,Hangers",False
+1009,Bastille,54.21,76.8,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1010,Montmartre,308.61,81.4,Private room,"Wifi,Heating,Iron",False
+1011,Marais,154.76,76.3,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1012,Batignolles,236.84,86.0,Entire home/apt,"Wifi,Kitchen,TV",False
+1013,Opera,157.63,99.7,Shared room,"Wifi,Heating,Hangers",False
+1014,Bercy,301.28,93.3,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1015,Bercy,164.36,72.0,Shared room,"Wifi,Heating,Iron",False
+1016,Montmartre,243.19,81.9,Shared room,"Wifi,Kitchen,Hair dryer",False
+1017,Marais,122.11,77.4,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1018,Batignolles,172.81,87.5,Private room,"Wifi,Heating,Hangers",False
+1019,Marais,197.95,72.7,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1020,Marais,234.51,93.8,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1021,Passy,158.3,99.9,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1022,Montparnasse,306.84,70.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1023,Montparnasse,272.77,93.1,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1024,Belleville,174.78,83.6,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1025,Montparnasse,276.21,85.2,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1026,Montparnasse,228.78,74.6,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1027,Batignolles,140.49,70.6,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1028,Montmartre,57.96,96.3,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1029,Opera,292.97,99.3,Shared room,"Wifi,Kitchen,TV",False
+1030,Marais,244.52,98.4,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1031,Montparnasse,310.45,82.7,Entire home/apt,"Wifi,Heating,Hangers",False
+1032,Belleville,163.69,90.2,Private room,"Wifi,Kitchen,Hair dryer",False
+1033,Montparnasse,179.96,77.4,Entire home/apt,"Wifi,Heating,Iron",False
+1034,Louvre,222.38,76.9,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1035,Bastille,259.43,71.8,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1036,Bercy,61.97,77.1,Shared room,"Wifi,Kitchen,Hair dryer",False
+1037,Montmartre,207.16,91.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1038,Montmartre,283.23,94.2,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1039,Bastille,244.28,80.6,Private room,"Wifi,Kitchen,Hair dryer",False
+1040,Louvre,248.74,99.5,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1041,Passy,265.75,94.0,Entire home/apt,"Wifi,Heating,Hangers",False
+1042,Montmartre,98.96,83.5,Private room,"Wifi,Kitchen,TV",False
+1043,Belleville,183.41,96.2,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1044,Montparnasse,70.35,89.6,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1045,Bastille,327.17,95.5,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1046,Opera,189.22,95.9,Entire home/apt,"Wifi,Kitchen,TV",False
+1047,Passy,40.67,81.7,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1048,Passy,255.94,91.9,Shared room,"Wifi,Kitchen,Hair dryer",False
+1049,Marais,98.87,76.5,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1050,Bercy,57.72,87.5,Shared room,"Wifi,Kitchen,TV",False
+1051,Louvre,337.84,72.4,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1052,Batignolles,61.07,95.9,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1053,Batignolles,116.33,87.8,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1054,Passy,243.79,87.0,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1055,Montmartre,247.62,79.4,Private room,"Wifi,Pool,Wheelchair accessible",True
+1056,Marais,248.22,79.0,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1057,Louvre,182.07,100.0,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1058,Montparnasse,106.08,78.0,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1059,Montmartre,154.55,74.7,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1060,Batignolles,344.99,94.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1061,Montparnasse,132.81,89.9,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1062,Bastille,315.81,92.3,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1063,Belleville,227.5,91.5,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1064,Montparnasse,191.44,97.2,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1065,Passy,297.1,71.3,Private room,"Wifi,Kitchen,TV",False
+1066,Belleville,90.09,83.3,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1067,Montparnasse,43.0,72.3,Shared room,"Wifi,Kitchen,TV",False
+1068,Montparnasse,51.17,81.1,Shared room,"Wifi,Kitchen,TV",False
+1069,Passy,79.51,79.2,Entire home/apt,"Wifi,Heating,Iron",False
+1070,Montmartre,251.44,90.0,Private room,"Wifi,Pool,Wheelchair accessible",True
+1071,Batignolles,272.34,97.8,Entire home/apt,"Wifi,Kitchen,TV",False
+1072,Marais,313.24,70.7,Shared room,"Wifi,Heating,Iron",False
+1073,Passy,288.69,95.9,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1074,Marais,284.09,73.2,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1075,Montmartre,101.87,97.6,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1076,Montmartre,109.11,89.8,Private room,"Wifi,Heating,Iron",False
+1077,Belleville,307.95,99.0,Private room,"Wifi,Heating,Iron",False
+1078,Montparnasse,163.9,99.4,Shared room,"Wifi,Heating,Iron",False
+1079,Louvre,75.76,99.1,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1080,Louvre,73.6,83.0,Shared room,"Wifi,Heating,Iron",False
+1081,Passy,227.92,85.3,Private room,"Wifi,Heating,Hangers",False
+1082,Belleville,53.76,83.1,Shared room,"Wifi,Heating,Hangers",False
+1083,Bercy,173.7,98.5,Private room,"Wifi,Heating,Iron",False
+1084,Bastille,263.12,79.0,Private room,"Wifi,Pool,Wheelchair accessible",True
+1085,Bercy,164.74,78.9,Entire home/apt,"Wifi,Heating,Hangers",False
+1086,Passy,246.13,81.4,Shared room,"Wifi,Kitchen,TV",False
+1087,Batignolles,216.42,82.2,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1088,Belleville,105.16,93.6,Shared room,"Wifi,Heating,Iron",False
+1089,Opera,176.95,90.3,Shared room,"Wifi,Kitchen,Hair dryer",False
+1090,Marais,244.24,78.5,Shared room,"Wifi,Heating,Iron",False
+1091,Bastille,293.71,92.5,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1092,Montmartre,290.03,74.4,Entire home/apt,"Wifi,Heating,Hangers",False
+1093,Opera,229.49,93.1,Private room,"Wifi,Pool,Wheelchair accessible",True
+1094,Batignolles,100.27,90.9,Private room,"Wifi,Pool,Wheelchair accessible",True
+1095,Montmartre,85.75,90.6,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1096,Montmartre,94.52,98.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1097,Louvre,212.8,97.5,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1098,Marais,288.44,90.0,Shared room,"Wifi,Heating,Iron",False
+1099,Opera,229.92,91.6,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1100,Montparnasse,178.23,74.8,Private room,"Wifi,Kitchen,Hair dryer",False
+1101,Belleville,273.05,95.2,Private room,"Wifi,Kitchen,Hair dryer",False
+1102,Montmartre,125.13,72.3,Private room,"Wifi,Heating,Hangers",False
+1103,Belleville,144.11,96.8,Entire home/apt,"Wifi,Kitchen,TV",False
+1104,Marais,111.69,90.8,Shared room,"Wifi,Heating,Hangers",False
+1105,Bastille,168.61,79.9,Private room,"Wifi,Pool,Wheelchair accessible",True
+1106,Louvre,104.12,82.6,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1107,Batignolles,157.92,70.2,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1108,Passy,304.57,98.6,Private room,"Wifi,Heating,Hangers",False
+1109,Opera,108.02,83.1,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1110,Bercy,247.35,93.9,Shared room,"Wifi,Kitchen,TV",False
+1111,Opera,325.06,99.4,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1112,Passy,223.49,89.9,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1113,Marais,308.72,75.5,Private room,"Wifi,Pool,Wheelchair accessible",True
+1114,Bercy,105.61,79.8,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1115,Passy,118.2,72.5,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1116,Bercy,109.51,72.1,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1117,Louvre,334.38,76.0,Entire home/apt,"Wifi,Kitchen,TV",False
+1118,Montmartre,79.13,90.1,Shared room,"Wifi,Heating,Hangers",False
+1119,Opera,256.83,93.0,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1120,Marais,339.06,73.2,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1121,Batignolles,249.98,98.7,Private room,"Wifi,Heating,Hangers",False
+1122,Bastille,223.55,94.9,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1123,Belleville,303.59,88.0,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1124,Bercy,205.15,89.8,Entire home/apt,"Wifi,Heating,Iron",False
+1125,Louvre,303.37,94.7,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1126,Bercy,237.03,94.9,Shared room,"Wifi,Kitchen,TV",False
+1127,Passy,94.6,85.7,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1128,Batignolles,290.54,86.1,Private room,"Wifi,Kitchen,Hair dryer",False
+1129,Passy,295.98,87.8,Private room,"Wifi,Heating,Hangers",False
+1130,Bastille,126.47,83.5,Private room,"Wifi,Pool,Wheelchair accessible",True
+1131,Bercy,48.9,95.5,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1132,Montmartre,150.0,77.8,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1133,Montparnasse,43.15,98.4,Entire home/apt,"Wifi,Heating,Hangers",False
+1134,Passy,191.46,92.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1135,Opera,178.93,70.5,Private room,"Wifi,Heating,Hangers",False
+1136,Passy,254.45,79.2,Shared room,"Wifi,Heating,Iron",False
+1137,Opera,211.58,80.3,Shared room,"Wifi,Heating,Iron",False
+1138,Bercy,257.89,78.1,Private room,"Wifi,Heating,Hangers",False
+1139,Bastille,263.6,79.5,Shared room,"Wifi,Kitchen,TV",False
+1140,Montmartre,107.08,84.5,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1141,Bastille,298.11,78.9,Private room,"Wifi,Kitchen,TV",False
+1142,Belleville,44.39,86.0,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1143,Louvre,211.54,90.9,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1144,Bastille,310.54,87.2,Private room,"Wifi,Kitchen,Hair dryer",False
+1145,Opera,145.62,99.0,Private room,"Wifi,Kitchen,Hair dryer",False
+1146,Bastille,294.86,82.0,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1147,Marais,86.25,86.9,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1148,Montmartre,76.72,92.9,Shared room,"Wifi,Heating,Hangers",False
+1149,Montparnasse,157.92,97.3,Private room,"Wifi,Pool,Wheelchair accessible",True
+1150,Belleville,216.28,71.8,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1151,Montmartre,233.91,77.9,Entire home/apt,"Wifi,Kitchen,TV",False
+1152,Montmartre,93.88,72.3,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1153,Opera,253.71,84.1,Entire home/apt,"Wifi,Heating,Hangers",False
+1154,Belleville,259.16,91.1,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1155,Montmartre,326.41,93.6,Shared room,"Wifi,Heating,Hangers",False
+1156,Passy,75.58,76.7,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1157,Marais,62.14,75.0,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1158,Opera,78.55,90.7,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1159,Belleville,195.15,84.8,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1160,Passy,267.71,88.1,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1161,Montmartre,338.19,95.1,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1162,Belleville,218.64,92.9,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1163,Montparnasse,241.97,97.5,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1164,Opera,340.41,84.1,Private room,"Wifi,Heating,Iron",False
+1165,Bercy,247.74,95.7,Private room,"Wifi,Pool,Wheelchair accessible",True
+1166,Opera,129.35,98.4,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1167,Opera,67.3,77.6,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1168,Montparnasse,295.73,70.0,Shared room,"Wifi,Kitchen,Hair dryer",False
+1169,Passy,56.8,85.6,Shared room,"Wifi,Kitchen,Hair dryer",False
+1170,Opera,275.6,76.1,Shared room,"Wifi,Kitchen,TV",False
+1171,Belleville,175.82,90.9,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1172,Batignolles,287.79,91.3,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1173,Montparnasse,166.48,76.7,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1174,Bastille,240.79,74.6,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1175,Montparnasse,258.68,82.5,Private room,"Wifi,Kitchen,Hair dryer",False
+1176,Montmartre,181.6,74.3,Entire home/apt,"Wifi,Kitchen,TV",False
+1177,Bastille,125.64,93.7,Private room,"Wifi,Heating,Iron",False
+1178,Montparnasse,122.82,70.1,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1179,Batignolles,219.78,89.8,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1180,Montparnasse,190.15,80.0,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1181,Opera,329.18,96.1,Shared room,"Wifi,Heating,Hangers",False
+1182,Batignolles,158.72,95.7,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1183,Bercy,270.86,91.2,Private room,"Wifi,Pool,Wheelchair accessible",True
+1184,Marais,193.55,71.1,Shared room,"Wifi,Heating,Iron",False
+1185,Bastille,311.0,83.2,Shared room,"Wifi,Kitchen,Hair dryer",False
+1186,Louvre,263.96,82.3,Shared room,"Wifi,Kitchen,TV",False
+1187,Bastille,185.54,99.1,Private room,"Wifi,Pool,Wheelchair accessible",True
+1188,Bastille,304.05,95.6,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1189,Bercy,234.31,96.6,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1190,Batignolles,61.21,88.9,Private room,"Wifi,Heating,Hangers",False
+1191,Bastille,174.53,73.0,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1192,Opera,91.57,79.0,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1193,Bercy,286.8,78.8,Private room,"Wifi,Pool,Wheelchair accessible",True
+1194,Marais,115.7,82.4,Shared room,"Wifi,Kitchen,TV",False
+1195,Marais,94.27,88.3,Private room,"Wifi,Heating,Hangers",False
+1196,Opera,322.98,74.3,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1197,Opera,119.15,70.3,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1198,Montparnasse,88.97,83.3,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1199,Passy,254.0,83.7,Private room,"Wifi,Heating,Hangers",False
+1200,Passy,304.53,73.2,Private room,"Wifi,Heating,Iron",False
+1201,Batignolles,131.72,91.0,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1202,Belleville,42.51,96.0,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1203,Batignolles,271.0,95.0,Private room,"Wifi,Heating,Hangers",False
+1204,Batignolles,288.6,76.6,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1205,Marais,234.76,97.1,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1206,Belleville,284.47,71.0,Private room,"Wifi,Kitchen,TV",False
+1207,Bastille,321.98,79.8,Private room,"Wifi,Kitchen,TV",False
+1208,Montmartre,80.97,86.2,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1209,Marais,119.66,94.7,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1210,Bercy,289.31,84.0,Entire home/apt,"Wifi,Kitchen,TV",False
+1211,Montmartre,306.64,91.7,Private room,"Wifi,Heating,Iron",False
+1212,Bastille,285.11,70.4,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1213,Opera,154.26,92.5,Private room,"Wifi,Pool,Wheelchair accessible",True
+1214,Bercy,73.59,77.0,Entire home/apt,"Wifi,Heating,Iron",False
+1215,Batignolles,108.62,71.9,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1216,Passy,76.17,71.4,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1217,Opera,76.0,77.0,Shared room,"Wifi,Kitchen,TV",False
+1218,Passy,180.63,90.1,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1219,Batignolles,270.1,74.6,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1220,Opera,230.85,98.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1221,Bercy,107.35,83.3,Entire home/apt,"Wifi,Heating,Iron",False
+1222,Bastille,344.09,81.0,Shared room,"Wifi,Heating,Iron",False
+1223,Louvre,163.42,75.7,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1224,Bastille,245.46,89.3,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1225,Louvre,283.91,77.3,Entire home/apt,"Wifi,Heating,Hangers",False
+1226,Bastille,297.24,86.6,Shared room,"Wifi,Heating,Hangers",False
+1227,Montmartre,141.85,74.4,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1228,Belleville,306.11,74.3,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1229,Marais,74.08,96.0,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1230,Bercy,284.9,77.1,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1231,Marais,122.26,73.8,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1232,Bastille,187.64,93.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1233,Opera,196.19,98.4,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1234,Opera,239.44,70.9,Private room,"Wifi,Pool,Wheelchair accessible",True
+1235,Passy,252.69,84.7,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1236,Bastille,139.85,74.5,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1237,Batignolles,236.25,86.5,Private room,"Wifi,Pool,Wheelchair accessible",True
+1238,Batignolles,204.47,83.6,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1239,Bastille,285.86,73.4,Shared room,"Wifi,Heating,Hangers",False
+1240,Passy,179.98,76.9,Private room,"Wifi,Kitchen,Hair dryer",False
+1241,Passy,168.96,72.9,Private room,"Wifi,Heating,Iron",False
+1242,Belleville,156.03,74.6,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1243,Bastille,297.85,72.8,Entire home/apt,"Wifi,Heating,Iron",False
+1244,Marais,212.47,87.6,Shared room,"Wifi,Heating,Iron",False
+1245,Bastille,167.35,96.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1246,Belleville,226.13,80.5,Shared room,"Wifi,Heating,Hangers",False
+1247,Marais,243.59,76.7,Entire home/apt,"Wifi,Heating,Iron",False
+1248,Montparnasse,153.94,92.9,Shared room,"Wifi,Heating,Hangers",False
+1249,Passy,302.0,99.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1250,Batignolles,328.02,94.9,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1251,Marais,124.71,92.9,Private room,"Wifi,Heating,Iron",False
+1252,Louvre,96.24,74.3,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1253,Bastille,83.98,89.0,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1254,Montparnasse,106.69,82.6,Private room,"Wifi,Kitchen,TV",False
+1255,Bercy,136.61,79.7,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1256,Louvre,88.23,92.6,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1257,Belleville,177.37,82.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1258,Passy,124.68,92.6,Entire home/apt,"Wifi,Heating,Iron",False
+1259,Passy,74.38,90.3,Shared room,"Wifi,Kitchen,Hair dryer",False
+1260,Montparnasse,246.81,71.4,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1261,Louvre,103.37,98.4,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1262,Belleville,141.72,70.2,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1263,Marais,80.05,86.0,Entire home/apt,"Wifi,Heating,Iron",False
+1264,Bastille,163.09,92.3,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1265,Opera,325.56,95.9,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1266,Batignolles,165.37,89.2,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1267,Passy,46.47,79.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1268,Bercy,67.32,95.3,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1269,Batignolles,164.14,72.4,Private room,"Wifi,Heating,Iron",False
+1270,Montmartre,143.25,75.0,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1271,Montparnasse,198.09,97.2,Private room,"Wifi,Heating,Iron",False
+1272,Marais,113.24,74.4,Entire home/apt,"Wifi,Kitchen,TV",False
+1273,Batignolles,87.39,92.8,Entire home/apt,"Wifi,Kitchen,TV",False
+1274,Opera,183.83,86.9,Shared room,"Wifi,Kitchen,Hair dryer",False
+1275,Batignolles,239.33,99.6,Private room,"Wifi,Heating,Iron",False
+1276,Marais,176.33,84.1,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1277,Belleville,223.34,80.6,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1278,Opera,180.09,71.7,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1279,Bastille,230.65,85.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1280,Opera,321.81,87.1,Entire home/apt,"Wifi,Heating,Iron",False
+1281,Batignolles,187.44,74.5,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1282,Bastille,291.4,95.1,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1283,Montparnasse,240.3,71.2,Shared room,"Wifi,Kitchen,Hair dryer",False
+1284,Opera,202.46,88.3,Private room,"Wifi,Heating,Iron",False
+1285,Belleville,160.1,93.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1286,Bercy,60.43,72.8,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1287,Belleville,118.12,95.5,Shared room,"Wifi,Kitchen,TV",False
+1288,Bercy,65.27,89.9,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1289,Passy,79.98,91.3,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1290,Montparnasse,156.77,93.7,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1291,Passy,197.63,70.5,Private room,"Wifi,Kitchen,TV",False
+1292,Montmartre,145.94,93.0,Entire home/apt,"Wifi,Heating,Hangers",False
+1293,Marais,88.03,78.9,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1294,Bercy,311.68,88.5,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1295,Marais,90.3,94.9,Shared room,"Wifi,Kitchen,TV",False
+1296,Opera,53.54,80.9,Shared room,"Wifi,Heating,Hangers",False
+1297,Opera,229.28,92.6,Private room,"Wifi,Heating,Hangers",False
+1298,Montparnasse,114.14,99.0,Private room,"Wifi,Heating,Hangers",False
+1299,Bercy,250.28,87.1,Private room,"Wifi,Kitchen,Hair dryer",False
+1300,Belleville,281.22,85.1,Private room,"Wifi,Kitchen,TV",False
+1301,Montmartre,288.39,74.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1302,Opera,310.98,86.6,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1303,Belleville,66.0,74.8,Private room,"Wifi,Kitchen,TV",False
+1304,Passy,68.43,97.3,Private room,"Wifi,Heating,Iron",False
+1305,Louvre,168.62,81.9,Private room,"Wifi,Heating,Hangers",False
+1306,Passy,348.3,81.2,Entire home/apt,"Wifi,Heating,Iron",False
+1307,Bastille,300.14,89.5,Entire home/apt,"Wifi,Kitchen,TV",False
+1308,Louvre,128.93,94.9,Shared room,"Wifi,Kitchen,TV",False
+1309,Opera,179.07,70.2,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1310,Belleville,106.85,74.5,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1311,Bastille,280.61,77.1,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1312,Montmartre,170.15,93.8,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1313,Bastille,299.37,85.0,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1314,Montparnasse,218.26,91.6,Private room,"Wifi,Pool,Wheelchair accessible",True
+1315,Louvre,230.59,77.2,Private room,"Wifi,Kitchen,TV",False
+1316,Bastille,202.28,80.8,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1317,Passy,310.73,71.3,Private room,"Wifi,Heating,Iron",False
+1318,Belleville,271.67,80.7,Entire home/apt,"Wifi,Heating,Iron",False
+1319,Montmartre,267.21,88.8,Shared room,"Wifi,Heating,Iron",False
+1320,Marais,53.74,86.4,Shared room,"Wifi,Kitchen,TV",False
+1321,Opera,344.05,84.4,Entire home/apt,"Wifi,Kitchen,TV",False
+1322,Bastille,261.97,98.3,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1323,Montmartre,53.58,76.0,Entire home/apt,"Wifi,Heating,Iron",False
+1324,Belleville,199.77,99.7,Shared room,"Wifi,Kitchen,Hair dryer",False
+1325,Belleville,51.35,89.4,Private room,"Wifi,Heating,Iron",False
+1326,Louvre,308.4,80.0,Entire home/apt,"Wifi,Heating,Iron",False
+1327,Passy,315.74,92.3,Private room,"Wifi,Heating,Iron",False
+1328,Marais,193.82,84.9,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1329,Bastille,265.4,72.4,Shared room,"Wifi,Kitchen,TV",False
+1330,Montparnasse,131.07,73.1,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1331,Belleville,178.23,91.5,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1332,Bercy,178.61,91.8,Private room,"Wifi,Pool,Wheelchair accessible",True
+1333,Belleville,238.24,93.7,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1334,Passy,152.63,94.0,Shared room,"Wifi,Kitchen,TV",False
+1335,Louvre,84.26,88.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1336,Marais,60.84,93.4,Private room,"Wifi,Heating,Iron",False
+1337,Passy,334.33,71.0,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1338,Bercy,155.32,92.9,Shared room,"Wifi,Kitchen,TV",False
+1339,Montparnasse,153.75,79.4,Private room,"Wifi,Heating,Hangers",False
+1340,Bastille,48.03,75.6,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1341,Montparnasse,76.51,93.2,Shared room,"Wifi,Kitchen,Hair dryer",False
+1342,Montmartre,348.87,78.6,Private room,"Wifi,Heating,Hangers",False
+1343,Bastille,82.08,72.2,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1344,Bastille,291.26,99.0,Private room,"Wifi,Heating,Iron",False
+1345,Bastille,210.5,78.7,Private room,"Wifi,Kitchen,TV",False
+1346,Marais,286.05,85.3,Entire home/apt,"Wifi,Heating,Hangers",False
+1347,Marais,113.39,84.8,Private room,"Wifi,Heating,Iron",False
+1348,Opera,289.14,86.5,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1349,Bastille,135.88,100.0,Shared room,"Wifi,Kitchen,Hair dryer",False
+1350,Montparnasse,167.35,82.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1351,Marais,341.44,89.3,Private room,"Wifi,Kitchen,Hair dryer",False
+1352,Montparnasse,146.8,96.3,Shared room,"Wifi,Kitchen,TV",False
+1353,Marais,174.11,97.3,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1354,Montparnasse,87.43,74.9,Private room,"Wifi,Heating,Hangers",False
+1355,Bercy,333.72,85.6,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1356,Belleville,100.85,98.7,Private room,"Wifi,Kitchen,TV",False
+1357,Belleville,230.47,72.8,Shared room,"Wifi,Kitchen,TV",False
+1358,Batignolles,331.9,74.6,Shared room,"Wifi,Heating,Iron",False
+1359,Batignolles,52.77,95.9,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1360,Batignolles,122.04,76.3,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1361,Batignolles,238.09,84.9,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1362,Belleville,189.71,94.1,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1363,Belleville,180.6,90.7,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1364,Passy,190.12,76.1,Shared room,"Wifi,Kitchen,TV",False
+1365,Bercy,307.06,79.6,Private room,"Wifi,Pool,Wheelchair accessible",True
+1366,Marais,275.81,85.4,Entire home/apt,"Wifi,Heating,Iron",False
+1367,Montmartre,184.61,78.0,Entire home/apt,"Wifi,Kitchen,TV",False
+1368,Bastille,55.69,98.4,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1369,Montmartre,338.43,97.1,Private room,"Wifi,Heating,Iron",False
+1370,Montmartre,276.57,84.9,Shared room,"Wifi,Kitchen,Hair dryer",False
+1371,Opera,312.51,84.9,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1372,Montparnasse,181.74,77.2,Shared room,"Wifi,Heating,Iron",False
+1373,Louvre,55.67,84.8,Shared room,"Wifi,Kitchen,Hair dryer",False
+1374,Belleville,206.37,95.4,Private room,"Wifi,Kitchen,TV",False
+1375,Belleville,265.53,92.9,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1376,Passy,55.86,86.9,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1377,Bastille,159.77,83.5,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1378,Batignolles,250.92,73.6,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1379,Bercy,286.42,80.2,Private room,"Wifi,Kitchen,TV",False
+1380,Montmartre,226.76,82.0,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1381,Louvre,82.48,80.0,Private room,"Wifi,Kitchen,Hair dryer",False
+1382,Marais,227.94,85.5,Private room,"Wifi,Heating,Iron",False
+1383,Marais,161.82,88.5,Private room,"Wifi,Heating,Iron",False
+1384,Montparnasse,296.77,86.0,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1385,Opera,292.88,81.1,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1386,Passy,220.95,93.9,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1387,Batignolles,187.12,99.0,Shared room,"Wifi,Heating,Hangers",False
+1388,Louvre,220.89,75.1,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1389,Marais,294.72,77.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1390,Montmartre,45.87,79.4,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1391,Montmartre,167.22,93.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1392,Marais,200.79,86.8,Shared room,"Wifi,Kitchen,Hair dryer",False
+1393,Montparnasse,156.82,98.7,Private room,"Wifi,Heating,Iron",False
+1394,Montparnasse,149.83,93.2,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1395,Batignolles,190.1,98.7,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1396,Montmartre,331.86,99.5,Private room,"Wifi,Heating,Hangers",False
+1397,Opera,138.28,80.5,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1398,Belleville,77.78,90.3,Private room,"Wifi,Pool,Wheelchair accessible",True
+1399,Bercy,335.93,94.1,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1400,Belleville,336.15,72.4,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1401,Opera,106.34,94.8,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1402,Marais,73.86,92.2,Entire home/apt,"Wifi,Heating,Hangers",False
+1403,Louvre,247.65,85.9,Shared room,"Wifi,Heating,Hangers",False
+1404,Louvre,71.06,79.9,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
+1405,Marais,41.61,86.5,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1406,Opera,188.01,76.0,Private room,"Wifi,Heating,Iron",False
+1407,Belleville,240.23,97.2,Entire home/apt,"Wifi,Heating,Hangers",False
+1408,Montparnasse,268.99,95.5,Entire home/apt,"Wifi,Kitchen,TV",False
+1409,Passy,313.5,75.3,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1410,Opera,97.76,92.5,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1411,Louvre,132.5,88.1,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1412,Opera,346.62,86.3,Private room,"Wifi,Kitchen,TV",False
+1413,Montparnasse,185.09,75.8,Entire home/apt,"Wifi,Heating,Iron",False
+1414,Marais,266.65,89.4,Shared room,"Wifi,Kitchen,TV",False
+1415,Louvre,268.35,93.7,Shared room,"Wifi,Heating,Hangers",False
+1416,Marais,229.4,89.2,Private room,"Wifi,Pool,Wheelchair accessible",True
+1417,Montparnasse,141.66,82.0,Entire home/apt,"Wifi,Kitchen,TV",False
+1418,Marais,188.01,98.1,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1419,Passy,113.01,92.6,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1420,Batignolles,264.09,70.3,Shared room,"Wifi,Heating,Iron",False
+1421,Montmartre,59.26,73.5,Private room,"Wifi,Kitchen,TV",False
+1422,Passy,252.68,97.7,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1423,Bastille,238.0,98.2,Private room,"Wifi,Heating,Hangers",False
+1424,Montmartre,336.78,84.3,Private room,"Wifi,Heating,Iron",False
+1425,Passy,257.6,97.4,Shared room,"Wifi,Heating,Hangers",False
+1426,Montmartre,250.91,87.9,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1427,Montparnasse,258.17,72.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1428,Louvre,296.92,97.1,Entire home/apt,"Wifi,Kitchen,TV",False
+1429,Marais,141.72,85.6,Entire home/apt,"Wifi,Heating,Hangers",False
+1430,Batignolles,191.54,97.0,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1431,Opera,80.9,82.5,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1432,Montparnasse,183.34,94.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1433,Passy,118.88,70.1,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1434,Louvre,171.35,91.0,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1435,Bastille,345.7,84.2,Private room,"Wifi,Pool,Wheelchair accessible",True
+1436,Marais,278.38,93.0,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1437,Bercy,347.79,81.5,Private room,"Wifi,Pool,Wheelchair accessible",True
+1438,Bastille,251.65,89.9,Shared room,"Wifi,Kitchen,TV",False
+1439,Bercy,76.78,99.8,Private room,"Wifi,Kitchen,TV",False
+1440,Montmartre,298.79,92.7,Private room,"Wifi,Kitchen,Hair dryer",False
+1441,Montparnasse,171.48,81.4,Entire home/apt,"Wifi,Heating,Hangers",False
+1442,Opera,147.31,78.3,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1443,Louvre,290.94,82.6,Entire home/apt,"Wifi,Heating,Hangers",False
+1444,Montmartre,60.86,87.8,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1445,Montmartre,269.57,82.1,Entire home/apt,"Wifi,Heating,Hangers",False
+1446,Louvre,83.44,99.8,Entire home/apt,"Wifi,Heating,Iron",False
+1447,Batignolles,225.35,90.2,Private room,"Wifi,Heating,Hangers",False
+1448,Belleville,311.64,99.6,Shared room,"Wifi,Heating,Hangers",False
+1449,Passy,133.16,71.8,Shared room,"Wifi,Kitchen,TV",False
+1450,Passy,212.31,71.4,Private room,"Wifi,Pool,Wheelchair accessible",True
+1451,Montparnasse,138.81,82.5,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1452,Passy,97.0,86.1,Entire home/apt,"Wifi,Heating,Hangers",False
+1453,Belleville,305.84,74.3,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1454,Montparnasse,167.93,82.5,Shared room,"Wifi,Kitchen,TV",False
+1455,Passy,115.29,76.1,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1456,Opera,302.61,72.8,Shared room,"Wifi,Heating,Hangers",False
+1457,Louvre,123.22,90.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1458,Bastille,98.33,92.9,Shared room,"Wifi,Heating,Hangers",False
+1459,Opera,104.76,97.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1460,Montmartre,330.52,98.9,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1461,Montmartre,255.64,91.1,Private room,"Wifi,Heating,Hangers",False
+1462,Montparnasse,139.7,78.5,Private room,"Wifi,Heating,Iron",False
+1463,Belleville,121.08,85.4,Private room,"Wifi,Kitchen,Hair dryer",False
+1464,Bastille,288.87,91.7,Private room,"Wifi,Heating,Hangers",False
+1465,Bercy,137.01,71.4,Entire home/apt,"Wifi,Kitchen,TV",False
+1466,Louvre,120.84,98.0,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1467,Belleville,87.25,79.9,Private room,"Wifi,Heating,Hangers",False
+1468,Opera,210.7,98.3,Private room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1469,Opera,339.62,89.3,Private room,"Wifi,Kitchen,Hair dryer",False
+1470,Marais,267.16,80.6,Entire home/apt,"Wifi,Kitchen,Hair dryer",False
+1471,Marais,324.24,86.3,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1472,Montparnasse,50.49,95.4,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1473,Louvre,167.84,95.3,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1474,Marais,42.83,85.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1475,Batignolles,237.7,98.0,Private room,"Wifi,Kitchen,Hair dryer",False
+1476,Louvre,42.05,86.5,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1477,Montparnasse,263.88,86.1,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1478,Montparnasse,292.08,90.2,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1479,Bastille,202.56,77.2,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1480,Bercy,122.87,81.9,Private room,"Wifi,Pool,Wheelchair accessible",True
+1481,Opera,215.15,99.7,Entire home/apt,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1482,Bastille,242.66,95.7,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1483,Passy,157.57,86.6,Entire home/apt,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1484,Marais,65.63,95.4,Shared room,"Wifi,Heating,Iron",False
+1485,Batignolles,342.97,99.2,Shared room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1486,Montmartre,105.54,96.0,Shared room,"Wifi,Kitchen,Hair dryer",False
+1487,Belleville,54.43,72.2,Private room,"Wifi,Kitchen,Wheelchair accessible,Elevator",True
+1488,Marais,327.92,79.4,Entire home/apt,"Wifi,Kitchen,TV",False
+1489,Passy,327.95,79.0,Shared room,"Wifi,Heating,Hangers",False
+1490,Batignolles,298.74,81.7,Shared room,"Wifi,Heating,Iron",False
+1491,Passy,274.24,74.2,Shared room,"Wifi,Heating,Step-free access,Ground floor access",True
+1492,Montparnasse,271.09,80.4,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1493,Montmartre,299.99,80.2,Shared room,"Wifi,Pool,Wheelchair accessible",True
+1494,Bercy,49.18,78.2,Private room,"Wifi,Kitchen,Hair dryer",False
+1495,Montmartre,150.3,98.2,Private room,"Wifi,Kitchen,TV",False
+1496,Batignolles,244.81,72.6,Shared room,"Wifi,Kitchen,Accessible bathroom,Grab bars",True
+1497,Montmartre,261.06,72.5,Entire home/apt,"Wifi,Pool,Wheelchair accessible",True
+1498,Marais,269.29,79.5,Entire home/apt,"Wifi,Heating,Step-free access,Ground floor access",True
+1499,Louvre,332.32,83.3,Private room,"Wifi,Heating,Step-free access,Ground floor access",True
