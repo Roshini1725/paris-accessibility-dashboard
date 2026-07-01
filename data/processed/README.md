@@ -1,0 +1,1 @@
+Note: listings_clean_SAMPLE.csv and seasonal_demand_SAMPLE.csv are synthetic placeholder data generated to verify the pipeline runs end-to-end. Replace with real output by running data_prep.py against the actual Kaggle CSVs in data/raw/.
